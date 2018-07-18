@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="play_icon_height_dimens">23dp</dimen>
+    <dimen name="play_icon_width_dimens">24dp</dimen>
+    <dimen name="play_icon_margin_end">41dp</dimen>
+    <dimen name="play_icon_margin_top">76dp</dimen>
+    <dimen name="artcover_width_dimens">200dp</dimen>
+    <dimen name="artcover_height_dimens">100dp</dimen>
+</resources>

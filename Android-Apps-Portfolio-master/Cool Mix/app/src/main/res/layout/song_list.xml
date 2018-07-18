@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent">
+
+    <ImageButton
+        android:id="@+id/btn_home"
+        android:layout_width="55dp"
+        android:layout_height="66dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btn_electro"
+        android:background="@drawable/ic_home_white_24dp"
+        android:baselineAlignBottom="true"
+        android:contentDescription="@string/home"
+        android:elevation="5dp"
+        android:src="@drawable/ic_home_white_24dp" />
+
+    <ImageButton
+        android:id="@+id/btn_equalizer"
+        android:layout_width="55dp"
+        android:layout_height="44dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/btn_jazz"
+        android:background="@drawable/ic_equalizer_white_24dp"
+        android:baselineAlignBottom="true"
+        android:contentDescription="@string/potPourit"
+        android:elevation="5dp"
+        android:src="@drawable/ic_equalizer_white_24dp" />
+
+    <ImageButton
+        android:id="@+id/btn_electro"
+        android:layout_width="55dp"
+        android:layout_height="45dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="234dp"
+        android:background="@drawable/ic_electro_white_24dp"
+        android:baselineAlignBottom="true"
+        android:contentDescription="@string/electronica"
+        android:elevation="5dp"
+        android:src="@drawable/ic_electro_white_24dp" />
+
+    <ImageButton
+        android:id="@+id/btn_jazz"
+        android:layout_width="55dp"
+        android:layout_height="44dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/btn_rock"
+        android:background="@drawable/ic_jazz_note_white"
+        android:baselineAlignBottom="true"
+        android:contentDescription="@string/jazz"
+        android:elevation="4dp"
+        android:src="@drawable/ic_electro_white_24dp" />
+
+    <ImageButton
+        android:id="@+id/btn_cinema"
+        android:layout_width="55dp"
+        android:layout_height="45dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/ic_movies_white_24dp"
+        android:baselineAlignBottom="true"
+        android:contentDescription="@string/cinematic"
+        android:elevation="4dp"
+        android:src="@drawable/ic_movies_white_24dp" />
+
+    <ImageButton
+        android:id="@+id/btn_pop"
+        android:layout_width="55dp"
+        android:layout_height="45dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/btn_cinema"
+        android:background="@drawable/ic_pop_white"
+        android:baselineAlignBottom="true"
+        android:contentDescription="@string/pop"
+        android:elevation="4dp"
+        android:src="@drawable/ic_pop_white" />
+
+    <ImageButton
+        android:id="@+id/btn_rock"
+        android:layout_width="54dp"
+        android:layout_height="45dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/btn_pop"
+        android:background="@drawable/ic_rock__while_black"
+        android:baselineAlignBottom="true"
+        android:contentDescription="@string/rock"
+        android:elevation="4dp"
+        android:src="@drawable/ic_rock__while_black" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="355dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+    </ListView>
+
+</RelativeLayout>
+
+
+
+
+
+
+

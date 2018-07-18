@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue="@string/settings_min_articles_default"
+        android:inputType="numberDecimal"
+        android:key="@string/settings_min_articles_key"
+        android:selectAllOnFocus="true"
+        android:title="@string/settings_min_articles_label" />
+
+    <ListPreference
+        android:defaultValue="@string/settings_order_by_default"
+        android:entries="@array/settings_order_by_labels"
+        android:entryValues="@array/settings_order_by_values"
+        android:key="@string/settings_order_by_key"
+        android:title="@string/settings_order_by_label" />
+
+    <ListPreference
+        android:defaultValue="@string/settings_production_office_default"
+        android:entries="@array/Settings_production_offices_label"
+        android:entryValues="@array/Settings_production_offices_values"
+        android:key="@string/settings_production_office_key"
+        android:title="@string/settings_production_office_label" />
+</PreferenceScreen>

@@ -1,0 +1,4 @@
+#Sat Jul 07 18:36:07 EDT 2018
+base.0=/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/GWG Portfolio/Android_App_Portfolios/Boutique/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

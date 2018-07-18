@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Dimension for Padding, Margin, etc. -->
+    <dimen name="eight_dp_value">8dp</dimen>
+    <dimen name="sixteen_dp_value">16dp</dimen>
+    <dimen name="twenty_eight_dp_value">28dp</dimen>
+    <dimen name="sixty_seven_dp">67dp</dimen>
+    <dimen name="one_hundred_twenty_dp">120dp</dimen>
+    <dimen name="two_hundred_forty_one_dp">241dp</dimen>
+
+    <!--Dimension for Text Sizes basic app setup -->
+    <dimen name="fifteen_sp_value">15sp</dimen>
+    <dimen name="sixteen_sp_value">16sp</dimen>
+    <dimen name="eighteen_sp_value">18sp</dimen>
+    <dimen name="twenty_sp_value">20sp</dimen>
+    <dimen name="line_space_body_text">6sp</dimen>
+
+    <!--Dimension Text Sizes  for specific news Sections -->
+    <dimen name="fn_section_title">25sp</dimen>
+    <dimen name="fn_headline">20sp</dimen>
+    <dimen name="fn_body_article">18sp</dimen>
+    <dimen name="fn_date_section">15sp</dimen>
+    <dimen name="fn_author_section">15sp</dimen>
+</resources>

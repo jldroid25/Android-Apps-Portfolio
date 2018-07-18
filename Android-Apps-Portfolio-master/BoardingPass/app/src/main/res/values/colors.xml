@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f59e2</color>
+    <color name="colorPrimaryDark">#06115c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="klmBgColor">#E3F2FD</color>
+    <color name="viewBgColor">#616161</color>
+    <color name="etihadBgColor">#000000</color>
+    <color name="GoldenYellow">#ffdf00</color>
+    <color name="MetallicGold">#d4af37</color>
+    <color name="OldGold">#4b3f08</color>
+    <color name="VegasGold">#c5b358</color>
+</resources>

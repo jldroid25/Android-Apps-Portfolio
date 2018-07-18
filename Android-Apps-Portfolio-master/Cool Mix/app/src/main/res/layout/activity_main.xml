@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/electronica"
+        style="@style/CategoryStyle"
+        android:layout_width="132dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/cinematic"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="-3dp"
+        android:padding="0dp"
+        android:text="@string/electronica"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/cinematic"
+        style="@style/CategoryStyle"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:padding="0dp"
+        android:text="@string/cinematic"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/popSongs"
+        style="@style/CategoryStyle"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/electronica"
+        android:layout_marginTop="111dp"
+        android:padding="0dp"
+        android:text="@string/popsong"
+        android:textAlignment="textStart"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/jazzMusic"
+        style="@style/CategoryStyle"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/cinematic"
+        android:layout_alignTop="@+id/popSongs"
+        android:layout_marginEnd="8dp"
+        android:padding="0dp"
+        android:text="@string/jazz"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/rocknroll"
+        style="@style/CategoryStyle"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/jazzImg"
+        android:padding="0dp"
+        android:text="@string/rock"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/potPourit"
+        android:layout_width="147dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/rocknroll"
+        android:text="@string/potPourit"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/electroImg"
+        android:layout_width="142dp"
+        android:layout_height="74dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/electronica"
+        android:contentDescription="@string/electronica"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/electropic4" />
+
+    <ImageView
+        android:id="@+id/cinemaImg"
+        android:layout_width="147dp"
+        android:layout_height="69dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/electronica"
+        android:layout_marginTop="4dp"
+        android:contentDescription="@string/cinematic"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/cinepic5" />
+
+    <ImageView
+        android:id="@+id/popImg"
+        android:layout_width="143dp"
+        android:layout_height="55dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/popSongs"
+        android:contentDescription="@string/popsong"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/poppic4" />
+
+    <ImageView
+        android:id="@+id/jazzImg"
+        android:layout_width="145dp"
+        android:layout_height="59dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/popSongs"
+        android:contentDescription="@string/jazz"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/jazzpic3" />
+
+    <ImageView
+        android:id="@+id/rockImg"
+        android:layout_width="143dp"
+        android:layout_height="104dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/rocknroll"
+        android:contentDescription="@string/rock"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/rocksong5" />
+
+    <ImageView
+        android:id="@+id/potPouritImg"
+        android:layout_width="147dp"
+        android:layout_height="105dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/rocknroll"
+        android:contentDescription="@string/potPourit"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/electropic3" />
+
+</RelativeLayout>
+
+
+
+

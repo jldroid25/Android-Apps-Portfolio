@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-viewmodel-1.1.0_8d90f6062ffb5ef245539d0ecb57eea969afd9c7.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.2_aec45f9aefe0c762350a3a2a2a2dc5ac5d537fd5.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.1.1_dfd66929a8c4c9799a829787cbadb5379fd73073.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.1.1_73205421e923fe244c77bb0ef722c9851dd14780.jar" />
+    </item>
+    <item
+        jar="/Users/jimad12/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.2_b817ebb35d2bdae90cb0190b7f881c28a0701904.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.1.1_7531faf1ee9f62bf2a668499e9b58042cb477506.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/android.arch.core-runtime-1.1.0_44e76192ef1c37bd6705946cd22782ad4564adf3.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.1.1_43f12f379592c3d3da261756009ab8b76916e645.jar" />
+    </item>
+    <item
+        jar="/Users/jimad12/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.1_a0a84f5e177674e5e67336720be47f4eab5a3064.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-livedata-core-1.1.0_edd57806453c52905c7d162d6cfceacf0895d936.jar" />
+    </item>
+    <item
+        jar="/Users/jimad12/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/common-1.1.0_cd0c797bdb6c27680e3080d106e9357eab34bdf3.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.1.1_e122bf54e4912fd40de1fb7103ebb5207fddb79a.jar" />
+    </item>
+    <item
+        jar="/Users/jimad12/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/common-1.1.0_80e884b16135ef10e96b5db820b2523814759fac.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.1.0_242a712665fab9e52202269858c006d50de2d31a.jar" />
+    </item>
+    <item
+        jar="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/Experiment/networking/Nuntium/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.1.1_5a2e874596221a7a9a7976956ee43dd47fe88277.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Sort Articles Chronologically -->
+    <string-array name="settings_order_by_labels">
+
+        <item>@string/settings_order_by_article_label</item>
+        <item>@string/settings_order_by_most_recent_label</item>
+        <item>@string/settings_order_by_old_article_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_article_value</item>
+        <item>@string/settings_order_by_most_recent_value</item>
+        <item>@string/settings_order_by_old_article_value</item>
+    </string-array>
+
+    <!-- Production Offices Uk & USA-->
+    <string-array name="Settings_production_offices_label">
+        <item>@string/settings_production_office_uk_label</item>
+        <item>@string/settings_production_office_usa_label</item>
+    </string-array>
+
+    <string-array name="Settings_production_offices_values">
+        <item>@string/settings_production_office_uk_value</item>
+        <item>@string/settings_production_office_usa_value</item>
+    </string-array>
+
+</resources>

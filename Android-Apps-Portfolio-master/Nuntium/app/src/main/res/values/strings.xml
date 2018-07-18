@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Nuntium Finance</string>
+
+    <!--Place Holder Text for Testing UI -->
+    <string name="section_title">Business</string>
+    <string name="headline_title">Profit Soaring on Wall Street</string>
+    <string name="body_test_text">This is for place holderThis is for place holder
+        This is for place holder text only text only text only.</string>
+    <string name="test_text_date">2018 01 01</string>
+    <string name="author_test_text">Author</string>
+
+    <!--Inform the user on Next Step in case of no available data -->
+    <string name="fail_message"> <![CDATA[ We are Very Sorry There is no Available News Data at this time.\n\n
+        If you had entered 0 for number of article to be displayed.\n
+        Please update the number to at least 1 article.\n Thank You]]> </string>
+
+    <!--Inform the user on Next Step in case of no Internet Connection -->
+    <string name="no_internet_connection"><![CDATA[ No Internet Connection.\n\nThis app requires an internet connection.\n\n
+    Please restore your internet connection to continue.]]> </string>
+
+    <!--For User Settings-->
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Financial News Settings</string>
+
+    <!-- Preference Label -->
+    <string name="settings_min_articles_label">Maximum Number Articles To Display.</string>
+    <string name="settings_min_articles_key" translatable="false">min_articles</string>
+    <string name="settings_min_articles_default" translatable="false">10</string>
+
+    <!-- Strings For Order-By Preference  -->
+    <string name="settings_order_by_label">Sort Articles Chronologically By:</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_article_value</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_most_recent_key" translatable="false">most_recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">newest</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_article_label">Relevance</string>
+    <string name="settings_relevance_key" translatable="false">relevant_article</string>
+    <string name="settings_order_by_article_value" translatable="false">relevance</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_old_article_label">Oldest</string>
+    <string name="settings_oldest_key" translatable="false">oldest_article</string>
+    <string name="settings_order_by_old_article_value" translatable="false">oldest</string>
+
+    <!-- Strings For Order-By Preference  -->
+    <string name="settings_production_office_label">Select Financial News For Desired Country:</string>
+    <string name="settings_production_office_key" translatable="false">production_office</string>
+    <string name="settings_production_office_default" translatable="false">@string/settings_production_office_uk_value</string>
+
+    <!-- Label for Uk Production Office option [CHAR LIMIT=20] -->
+    <string name="settings_production_office_uk_label">UK Business News</string>
+    <string name="settings_production_office_uk_key" translatable="false">prod_office_uk</string>
+    <string name="settings_production_office_uk_value" translatable="false">uk</string>
+
+    <!-- Label for USA Production Office option [CHAR LIMIT=20] -->
+    <string name="settings_production_office_usa_label">USA Business News</string>
+    <string name="settings_production_office_usa_key" translatable="false">prod_office_usa</string>
+    <string name="settings_production_office_usa_value" translatable="false">us</string>
+
+</resources>

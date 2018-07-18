@@ -1,0 +1,19 @@
+
+<resources>
+    <!-- Margin around the floating action button in BoutiqueActivity -->
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- DP & SP values used throughout the app -->
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+    <dimen name="four_dp">4dp</dimen>
+    <dimen name="twenty_four_dp">24dp</dimen>
+    <dimen name="thirty_two_dp">32dp</dimen>
+    <dimen name="one_hun_16_dp">116dp</dimen>
+    <dimen name="field_text_width">290dp</dimen>
+    <dimen name="text_marging_top">120dp</dimen>
+    <dimen name="eight_sp">8sp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="eighteen_sp">18sp</dimen>
+</resources>
+

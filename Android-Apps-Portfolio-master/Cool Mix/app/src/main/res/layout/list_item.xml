@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="8dp"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="422dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/artCover"
+        android:layout_alignParentStart="true"
+        android:background="?android:attr/selectableItemBackground"
+        android:paddingLeft="8dp"
+        android:paddingStart="8dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/artCover"
+        android:layout_width="@dimen/artcover_width_dimens"
+        android:layout_height="@dimen/artcover_height_dimens"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/play"
+        android:background="?android:attr/selectableItemBackground" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/artCover"
+        android:background="?android:attr/selectableItemBackground"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/artist"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="17dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/releaseDate"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/description"
+        android:background="?android:attr/selectableItemBackground"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/play"
+        android:layout_width="@dimen/play_icon_width_dimens"
+        android:layout_height="@dimen/play_icon_height_dimens"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="@dimen/play_icon_margin_end"
+        android:layout_marginTop="@dimen/play_icon_margin_top"
+        android:background="?android:attr/selectableItemBackground"
+        android:contentDescription="@string/play_btn"
+        android:src="@drawable/play_white_24dp" />
+</RelativeLayout>

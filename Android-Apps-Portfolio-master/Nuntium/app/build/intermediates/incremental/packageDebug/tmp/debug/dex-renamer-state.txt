@@ -1,0 +1,7 @@
+#Sat Jul 07 15:13:20 EDT 2018
+base.0=/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/GWG Portfolio/Android_App_Portfolios/Nuntium/app/build/intermediates/transforms/dexMerger/debug/12
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Volumes/FreeAgent GoFlex Drive/My_appDev/Udacity/GWG Portfolio/Android_App_Portfolios/Nuntium/app/build/intermediates/transforms/dexMerger/debug/11
