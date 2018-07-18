@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorSecondary</item>
+        <item name="colorPrimaryDark">@color/colorSecondaryDark</item>
+        <item name="colorAccent">@color/colorSecondaryLight</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:textColor">@color/brown_txt</item>
+    </style>
+    
+</resources>

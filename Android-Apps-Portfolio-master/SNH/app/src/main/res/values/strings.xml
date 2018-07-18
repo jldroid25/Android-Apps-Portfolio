@@ -1,0 +1,251 @@
+<resources>
+
+    <!-- App Title -->
+    <string name="app_name">Southern NH</string>
+
+    <!-- Southern NH Cities Title -->
+    <string name="manchester"> Manchester </string>
+    <string name="bedford"> Bedford</string>
+    <string name="merrimack"> Merrimack</string>
+    <string name="hooksett">Hooksett</string>
+    <string name="city_title">Citi Name in southern NH</string>
+    <string name="city_description">Information About a city in Southern NH</string>
+
+    <!-- Image Description-->
+    <string name="nh_moto">Live Free or Die</string>
+    <string name="cities">Cities - Towns</string>
+    <string name="manchester_img_desc">Manchester, NH City Image Art</string>
+    <string name="bedford_img_desc">Bedford NH Image Art</string>
+    <string name="merrimack_img_desc">Merrimack, NH Image Art</string>
+    <string name="hooksett_img_desc">Hooksett, NH Image Art</string>
+    <string name="city_img_desc">A image of a city in Southern NH </string>
+    <string name="section_img_desc">image for a particular section of the app</string>
+
+    <!--Drawer Open & close Description for Accessibility Friendliness-->
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!--Things To Do Section-->
+    <string name="things_to_do">Things To Do</string>
+    <string name="museums">Museums - Galleries</string>
+    <string name="performing_arts">Performing Arts</string>
+    <string name="library">Public Libraries</string>
+    <string name="sport_country_clubs">Sports - Country Clubs</string>
+    <string name="shopping">Shopping</string>
+    <string name="dining">Dining</string>
+    <string name="itinerary">Itinerary</string>
+
+    <!--Transportation  Section-->
+    <string name="transportation">Transportation</string>
+    <string name="airport">Airport</string>
+    <string name="mht_airport_title">Manchester•Boston Regional Airport (MHT)</string>
+    <string name="mht_airport">Strategically situated in the heart of New England,
+        Manchester-Boston Regional Airport is committed to:
+        Providing world class aviation facilities and infrastructure;
+        Providing safe, efficient, and convenient transportation.
+    </string>
+    <string name="mht_website">https://www.flymanchester.com</string>
+    <string name="mht_address">1 Airport Road Manchester, NH 03103</string>
+    <string name="plain_img">Image of a Plain taxi in an Airport</string>
+
+    <!-- Places To Stay Section-->
+    <string name="where_to_stay">Places to Stay</string>
+    <string name="hotels">Hotels - B n B</string>
+
+    <!-- Parks Section-->
+    <string name="parks">Public Parks</string>
+
+    <!-- Cities & Fragments text Section-->
+    <string name="bedfordnhTitle">Bedford, NH</string>
+    <string name="bedfordInfoText"><![CDATA[Bedford is known as an upscale bedroom community for those commuting to Manchester, Hooksett, Merrimack, and Boston. This is where Southern NH most affluent families, trust funds babies, & inheritance fortunes reside. Recently it has also gained favor as an outstanding location for businesses. The town is home to the legacy park a 70-acre facility that includes soccer, softball, and baseball fields; cross-country ski trails and tennis court among others. There is limited Public Transit (Bus) service from Manchester to Bedford, It is highly recommended to rent a car if you plan to visit Bedford whilst staying in Manchester.]]></string>
+    <string name="hooksettTitle">Hooksett, NH</string>
+    <string name="hooksettInfo">Brilliantly located between Manchester and Concord NH this town’s commercial district and the portion of northern Manchester blend together in a seamless bustle of retail operations, shopping centers, cinemas, restaurants, and lovely residential  neighborhoods.There is limited Public Transit (Bus) service from Manchester to   Hooksett, It is highly recommended to rent a car if you plan to visit Hooksett whilst staying in Manchester.</string>
+    <string name="manchesterTitle">Manchester</string>
+    <string name="manchesterInfoText"><![CDATA[Located in the heart of Northern New England, in south central New Hampshire, and along the Merrimack River. This is the 10th largest city in New England, it is within a 58 miles distance from Boston about an hour drive. Manchester provides a vibrant urban living and famed natural beauty. It is a destination in its own right. Manchester is the financial center of New Hampshire, home to the largest civic arena, and the hub for the state most cultural institutions. The downtown is home of the palace theater which attracts nationally known performers from across the country. The city boasts 900 acres of parks and numerous golf courses. The local cuisine reflects the divers tastes and ethnic origins of the population which includes classic New England fare. There is Adequate Public Transportation to get to or From M.H.T Manchester Boston Regional Airport, The Mall of New Hampshire for shopping, also Part of Hooksett, & Bedford. There are numerous entertainment options such as Theater & Plays, Concerts, Sports, Museums, & casual to fine dining.]]></string>
+    <string name="merrimackTitle">Merrimack, NH</string>
+    <string name="MerrimackInfoText"><![CDATA[This is a young and family oriented town with  some very well known national and international businesses. Merrimack is located between Manchester, & Bedford  along with three interchanges off the F, E. Everett Turnpike, makes it a convenient bridge between both communities There is no Public Transit (Bus) service from Manchester to Merrimack, It is highly recommended to rent a car if you plan to visit Merrimack whilst staying in Manchester.]]></string>
+    <string name="diningTitle1">Bedford Village INN</string>
+    <string name="diningAddress1">2 Olde Bedford Way, Bedford NH</string>
+    <string name="diningSite1">http://www.bedfordvillageinn.com/dining/</string>
+    <string name="diningDesc1">Restaurant</string>
+    <string name="diningTitle2">Adored</string>
+    <string name="diningAddr2">848 Elm Street, Manchester NH</string>
+    <string name="diningSite2">http://www.adored.com</string>
+    <string name="diningDesc2">Restaurant</string>
+    <string name="diningTitle3">Cabonnay</string>
+    <string name="diningAddr3">55 Bridge Street, Manchester NH</string>
+    <string name="diningsite3">http://www.cabonnay.com</string>
+    <string name="diningDesc3">Restaurant</string>
+    <string name="diningTitle4"><![CDATA[A&E Coffee]]></string>
+    <string name="diningAddr4">1000 Elm Street, Manchester NH</string>
+    <string name="diningSite4">http://www.aeroastery.com</string>
+    <string name="diningDesc4">Coffee Shop</string>
+    <string name="diningTitle5">Dancing Lion Chocolate</string>
+    <string name="diningAddr5">917 Elm Street, Manchester NH</string>
+    <string name="diningSite5">http://www.dancinglionchocolate.com</string>
+    <string name="diningDesc5">Bakery</string>
+    <string name="diningTitle6">Stark Brewing Company</string>
+    <string name="diningAddr6">500 Commercial Street, Manchester NH</string>
+    <string name="diningSite6">http://www.starkbrewingcompany.com</string>
+    <string name="diningDesc6">Brewery</string>
+    <string name="hTitle1">Bedford Village Inn</string>
+    <string name="hAddr1">2 Olde Bedford Way, Bedford NH</string>
+    <string name="hsite1">www.bedfordvillageinn.com</string>
+    <string name="hDesc1"><![CDATA[5 Stars - Hotel & Restaurant.]]></string>
+    <string name="htitle2">Radisson Hotel of Manchester</string>
+    <string name="hAddr2">700 Elm Street, Manchester NH</string>
+    <string name="hSite2">www.radisson.com/manchester</string>
+    <string name="hdesc2">4 Stars - Hotel</string>
+    <string name="hTitle3">Hilton Garden Inn</string>
+    <string name="hAddr3">101 South Commercial St, Manchester NH</string>
+    <string name="hSite3">www.hgi-manchester.com</string>
+    <string name="hDesc3"><![CDATA[4 Stars - Hotels & Restaurant.]]></string>
+    <string name="hTitle4">Ash Street Inn</string>
+    <string name="hAddr4">118 Ash Street Manchester, NH</string>
+    <string name="hSite4">www.ashstreetinn.com</string>
+    <string name="hDesc4">3 Stars - Bed and BreakFast</string>
+    <string name="hTitle5">Comfort Inn</string>
+    <string name="hAddr5">298 Queen City Avenue, Manchester NH</string>
+    <string name="hsite5">www.comfortinnmht.com</string>
+    <string name="hDesc5">3 Stars - Budget Hotel</string>
+    <string name="hTitle6">Holiday Inn - Manchester Airport</string>
+    <string name="hAddr6">2280 Brown avenue, Manchester NH</string>
+    <string name="hSite6">www.holidayinn.com/manchesternh</string>
+    <string name="hDesc6">3 Stars Hotel</string>
+    <string name="mTitle1">Currier Museum of Art</string>
+    <string name="mAddr1">150 Ash Street, Manchester NH</string>
+    <string name="mSite1">www.currier.org</string>
+    <string name="mDesc1">The Currier Museum of Art is an internationally renowned art museum located in downtown Manchester city center. The Currier features European and American paintings, decorative arts, photographs, and sculpture, including works by Picasso, Monet, O\'Keeffe, Wyeth, and LeWitt with exibitions, tours and programs year round.</string>
+    <string name="mTitle2">Credit Union Museum</string>
+    <string name="mAddr2">418-420 Notre Dame Avenue, Manchester NH</string>
+    <string name="mSite2">www.acumuseum.org</string>
+    <string name="mDesc2">Visit the birthplace of America\'s credit Union movement and find out what is was like to live in America during the great depression. The museum tells the human side of the credit union story.</string>
+    <string name="mTitle3">Franco-American Center</string>
+    <string name="mAddr3">100 Saint Anselm Drive, Davidson Hall, Manchester NH</string>
+    <string name="msite3">www.facnh.com</string>
+    <string name="mDesc3">This nonprofit cultural organization preserves the rich heritage of the French communities in Manchester through exhibits and a variety of cultural programs.</string>
+    <string name="mTitle4">Milliard Museum</string>
+    <string name="mAddr4">200 Bedford Street, Manchester NH</string>
+    <string name="mSite4">www.manchesterhistoric.org</string>
+    <string name="mDesc4">The Milliard museum offers visitors a unique view of manchester\'s history, from Native americans who settled on the Amoskeag Falls to the employees of Amoskeag manufacturing company to today\'s business and residents.</string>
+    <string name="mTitle5">New Hampshire Institute of Politics</string>
+    <string name="mAddr5">100 Saint Anselm Drive, Manchester NH</string>
+    <string name="mSite5">www.nhiop.org</string>
+    <string name="mDesc5"><![CDATA[Located on the campus of Saint Anselm College, the institute is housed in a 20,000-square-foot facility that contains an auditorium, television Station, research center, the NH Library, & the common Ground Cafe.]]></string>
+    <string name="mTitle6">Zimmerman House by Frank lloyd Wright</string>
+    <string name="mAddr6">200 Myrtle Way, Manchester NH</string>
+    <string name="mSite6">www.currier.org</string>
+    <string name="mDesc6">The Zimmerman house was designed in 1950 by American architect Frank Lloyd Wright and is owns by the Currier Museum of Art,. It is the only house open to the public in New England. Reservation can be made by visiting our website.</string>
+    <string name="mTitle7">NH Institute of Art campus Galleries</string>
+    <string name="mAddr7">148 Concord Street, Manchester NH</string>
+    <string name="mSite7">www.nhia.edu</string>
+    <string name="mDesc7">The New Hampshire Institute of art operates three gallery spaces located on campus that exhibit student, professional and community works throughout the year.</string>
+    <string name="mTitle8">Art 3 Gallery</string>
+    <string name="mAddr8">44 West Brook Street, Manchester NH</string>
+    <string name="mSite8">www.art3gallery.com</string>
+    <string name="mDesc8">Located in a restored tonwhouse in the historic Milliard district of Manchester, the gallery includes one of the largest collections of art by New Hampshire, New England, national, and international.</string>
+    <string name="mTitle9">Studio 550 Art Center</string>
+    <string name="mAddr9">550 Elm Street, Manchester NH</string>
+    <string name="mSite9">www.550arts.com</string>
+    <string name="mDesc9">Studio 550 offers clay classes, glass and movement for adults and kids. The studio has a gallery filled with art you can use, and a national artist-in residence program.</string>
+    <string name="pTitle1">Victory Park</string>
+    <string name="pAddr1">Between Concord and Amherst Street</string>
+    <string name="pSite1">http://www.manchesternh.gov/</string>
+    <string name="pDesc1">Victory Park is dedicated to all the Manchester veterans and current military personnel who have answered the country\'s call to arms. Victory Park is the home to the Farmer’s Market which is open from June – October on Thursday afternoons.  The City of Manchester library hosts many family events at Victory Park throughout the summer months.</string>
+    <string name="pTitle2">Pulaski Park</string>
+    <string name="pAddr2"><![CDATA[Pine & Bridge Street]]></string>
+    <string name="pSite2">http://www.manchesternh.gov/</string>
+    <string name="pDesc2">Pulaski Park, located on Bridge Street, is an excellent place to sit and relax with your family while you take a break from the city. The lush grass fields are inviting, and are very well maintained. The aesthetics of the park make one want to sit and have a picnic, toss a Frisbee around, or relax under the shade of one of the many trees. The park also has a basketball court, which is used both by St. Joe’s and neighborhood kids looking for a retreat. While St. Joe’s building will no longer be used after the end of this school year, the park will continue to be used by people both young and old as a relaxing retreat.</string>
+    <string name="pTitle3">Veteran\'s Memorial Park</string>
+    <string name="pAddr3"><![CDATA[Central & Merrimack St]]></string>
+    <string name="pSite3">http://www.manchesternh.gov/</string>
+    <string name="pDesc3">Originally, the park was meant to serve as a memorial for the brave souls who fought in the Civil War in order to preserve the Union. Currently, it serves as a memorial for the veterans of World War I, the Korea War, the Vietnam War, and World War II. Recently, a large octagonal memorial to the World War II veterans from Manchester was built.</string>
+    <string name="pTitle4">City Hall Plaza</string>
+    <string name="pAddr4">Elm Street adjacent to City Hall</string>
+    <string name="pSite4">http://www.manchesternh.gov/</string>
+    <string name="pDesc4">Open to the public this the heart of Downtown Manchester NH.</string>
+    <string name="pTitle5">Derryfield Park</string>
+    <string name="pAddr5">City Center: On Bridge Street - East Manchester</string>
+    <string name="pSite6">http://www.manchesternh.gov/</string>
+    <string name="pDesc5"><![CDATA[Accessible: By walking from Downtown & car as well. Great spot for panoramic view of downtown & West Manchester, people watching & relax lunch. Derryfield Park is a large 76 acre park located on Bridge Street on the east side of Manchester. Hidden in the park behind the fields and just a short walk away is the Weston Observatory, which has been sanctioned as a part of the U.S. National Register of Historic Places. The Weston Observatory was named after James A. Weston, who left the city $5,000 to build this observatory for the enjoyment and benefit of the people in Manchester after formerly being mayor. The observatory was built in 1896 to 1897 and quickly became a destination of interest at the end of the Bridge Street trolley line.]]></string>
+    <string name="paTitle1">The Majestic Theatre</string>
+    <string name="paAddr1">922 Elm Street Suit 315, Manchester NH</string>
+    <string name="paSite1">http://www.majestictheatre.net</string>
+    <string name="paDesc1">Since 1990 The Majestic Theatre has been producing and presenting theatre for and by the community in Manchester. The Majestic produces more show.</string>
+    <string name="paTitle2">Palace Theatre</string>
+    <string name="paAddr2">80 Hanover St, Manchester NH</string>
+    <string name="paSite2">www.palacetheatre.org</string>
+    <string name="paDesc2">The las of Manchester Historic downtown theatres, the palace has earned a reputation as the city\'s premier performing arts institution, offering a wide variety of theatre, dance and music.</string>
+    <string name="paTitle3">SNHU Arena</string>
+    <string name="paAddr3">555 elm Street, Manchester, NH</string>
+    <string name="paSite3">www.snhuarena.com</string>
+    <string name="paDesc3">This is New Hampshire premier sports and entertainment facility. It is the home to the Monarchs Hockey Team and various other concerts, sporting events and show.</string>
+    <string name="paTitle4">Arthur Murray Dance Studio</string>
+    <string name="paAddr4">99 Elm Street Manchester, NH</string>
+    <string name="paSite4">www.arthurmurraydanceclasses.com</string>
+    <string name="paDesc4">Arthur Murray Dance Centers has dance studios all over the Boston area with nine dance schools in Massachusetts and New Hampshire that each teach ballroom dance lessons. If you’ve ever considered ballroom dancing lessons, now is the perfect time and Arthur Murray Dance Studios is the perfect place to get started.</string>
+    <string name="libTitle1">Manchester Public Library</string>
+    <string name="libAddr1">405 Pine Street, Manchester NH</string>
+    <string name="libSite1">http://www.manchester.lib.nh.us/</string>
+    <string name="libDesc1">The Manchester City Library has been a cultural treasure to Manchester and New Hampshire since 1854. In his inaugural address that year, Mayor elect Frederick Smyth proposed the establishment of a free public library for all of Manchester\'s citizens. During the previous decade, the Manchester Athenaeum had been used and enjoyed by its members. The Manchester Athenaeum collection was officially transferred to the city on September 6, 1854, bringing to life Mayor Smyth\'s dream of a Manchester City Library.</string>
+    <string name="libTitle2">Manchester Public Library 2nd Location</string>
+    <string name="libAddr2">76 Main Street, Manchester NH</string>
+    <string name="libSite2">http://www.manchester.lib.nh.us/</string>
+    <string name="libDesc2">The Manchester City Library has been a cultural treasure to Manchester and New Hampshire since 1854. In his inaugural address that year, Mayor elect Frederick Smyth proposed the establishment of a free public library for all of Manchester\'s citizens. During the previous decade, the Manchester Athenaeum had been used and enjoyed by its members. The Manchester Athenaeum collection was officially transferred to the city on September 6, 1854, bringing to life Mayor Smyth\'s dream of a Manchester City Library.</string>
+    <string name="libTitle3">Bedford Public Library</string>
+    <string name="libAddr3">3 Meetinghouse Road, Bedford NH</string>
+    <string name="libSite3">https://www.bedfordnhlibrary.org/</string>
+    <string name="libDesc4">There was a circulating library in Bedford as early as May 28, 1789, The first public library was open to the public February 16, 1893.</string>
+    <string name="shTitle1">Downtown  Manchester City Center</string>
+    <string name="shAddr1">Elm Street, Manchester NH</string>
+    <string name="shSite1">www.manchesternh.gov</string>
+    <string name="shDesc1"><![CDATA[Accessible: by-Car, Public Transit & Walking: There are plenty of Stores, Restaurants, Bakeries, Breweries, Coffee shops. The city Center (Elm Street) comes alive from 11 Am to 11 PM. For best Window shopping experience We Recommend a walk on Elm Street from Lake Avenue to Bridge Street .]]></string>
+    <string name="shTitle2">The Mall Of New Hampshire</string>
+    <string name="shAddr2">1500 S Willow St Manchester NH</string>
+    <string name="shSite2">http://www.simon.com/mall/the-mall-of-new-hampshire</string>
+    <string name="shDesc2"><![CDATA[Accessible: By Car & Public Transportation as well Mall of New Hampshire a wonderful climate controlled indoor mall makes shopping easy and convenient. Shops range from jewelry to women’s apparel to electronics to sporting goods.  The mall is home to 125 specialty stores including favorites such as Apple, Old Navy, Torrid, Forever 21, Pandora, Lane Bryant and Ulta.  Also at this mall, we have many exciting dining options from sit down places such as Buffalo Wild Wings, Red Robin and Bertucci’s to grab and go choices such as Sbarro.  The Mall of New Hampshire serves the nearby communities of Londonderry, Hooksett, Bedford, and Candia.  The mall is conveniently located on South Willow Street in Manchester off Exit 1 on I-293. So, from the entire Mall of New Hampshire team we hope you will visit us soon.]]></string>
+    <string name="shTitle3">Whole Foods</string>
+    <string name="shAddr3">121 S. River Road, Bedford NH</string>
+    <string name="shSite3">www.wholefoodsmarket.com</string>
+    <string name="shDesc3">Accessible by-Car-Only: A full restaurant inside a grocery store? YES! Our pub serves up delicious salads, wood fired pizzas, burgers, and more using the same quality ingredients you find in the aisles and highlighting local options whenever possible. Choose from our extensive local craft beers on tap, hand selected wines. Enjoy lunch or dinner indoors with views right into the kitchen, or dine outside on our patio and enjoy the historic waterfall and twinkling lights.</string>
+    <string name="shTitle4">Target Store</string>
+    <string name="shAddr4">220 S. river Rd, Bedford NH</string>
+    <string name="shSite4">https://www.target.com/sl/bedford/2009</string>
+    <string name="shDesc4"><![CDATA[Accessible by-Car-Only: Great View Of Bedford  NH, the Mountains, & Manchester from a far. Starbucks coffee and  the usual Target Store items.]]></string>
+    <string name="spTitile1">Manchester Monarchs Hockey Club</string>
+    <string name="spAddr1">555 Elm St, Manchester, NH</string>
+    <string name="spSite1">www.manchestermonarchs.com</string>
+    <string name="spDesc1">A member of the American Hockey League(ECHL) affiliated of the Los Angeles Kings, the Monarchs play their home games at the SNHU Arena.</string>
+    <string name="spTitile2">New Hamshire Fisher Cats</string>
+    <string name="spAddr2">1 Line Dr, Manchester, NH</string>
+    <string name="spSite2">nhfishercats.com</string>
+    <string name="spDesc2"><![CDATA[Stadium hosting Minor League Baseball’s New Hampshire Fisher Cats home games, stadium is also affiliated with the Toronto Blue Jays. Often hosts a varied concerts & events yearly.]]></string>
+    <string name="spTitle3">Derryfield Country Club</string>
+    <string name="spAddr3">625 Mammoth Rd, Manchester, NH 03104</string>
+    <string name="spSite3">www.derryfieldgolf.com</string>
+    <string name="spDesc3">Located in the heart of Manchester, New Hampshire, Derryfield is a municipally owned 18-hole golf course.  Derryfield provides challenging yet forgiving holes, that gives an experienced golfer or a beginner golfer an enjoyable round.</string>
+    <string name="spTitle4">Manchester Country Club</string>
+    <string name="spAddr4">180 S River Rd, Bedford, NH</string>
+    <string name="spSite4">www.manchestercountryclub.com</string>
+    <string name="spDesc4">Accessible by Car-Only For nearly 100 years, we’ve been bringing people together, across generations from near and far, through great golf and good times. Truly, this is the perfect place to spend time with family and friends. Join us in continuing our legacy of exceptional golf, the greatest love stories, and unforgettable moments in time.</string>
+    <string name="spTitle5">Gill Stadium</string>
+    <string name="spAddr5">396 Valley St, Manchester, NH</string>
+    <string name="spSite5">manchesternh.gov</string>
+    <string name="spDesc5">With grandstand seating capacity of 2,220; bleacher seating for about 792 more. Gill hosts Manchester School Athletics events plus Babe Ruth and Legion Baseball, and Bears football and Eagles Pop Warner football.</string>
+    <string name="wTitle1">Heritage Trail</string>
+    <string name="wAddr1">Walk toward the Merrimack River on Stark St</string>
+    <string name="wSite1">www.manchesternh.gov</string>
+    <string name="wDesc1">Great Spot for Lunch, walking distance from Elm St. downtown Manchester, walk along the Merrimack River bank. Enjoy the scenic view of West Manchester across the River.</string>
+    <string name="wTtile2">Elm Street City Center Promenade</string>
+    <string name="wAddr2">Lake Avenue to Bridge</string>
+    <string name="wSite2">www.manchesternh.gov</string>
+    <string name="wDesc2"><![CDATA[This is the heart of Manchester, with lots of opportunities for window shopping, tasty lunches, people watching, romantic diner, grab a pint,  & much more.]]></string>
+    <string name="wTtile3">Museums Galleries Self-Walking Tour</string>
+    <string name="wAdd3">Bedford St. To  Ash St. Manchester NH</string>
+    <string name="wDesc3"><![CDATA[Starts tour at the  Science Center on Bedford street then head to Millyard Museum next door.Then Walk back to Elm Street, head to City Hall Plaza take some pictures, then go on to Amherst Street, stop at Victory Park  to take a few pictures, make your way to the Manchester City Library to admire the beauty of the building (F.Y.I - Free wifi & clean Restroom).Then go on to Beech Street  & walk toward Ash Street until you reach the Currier Museum Of Art.While there check out the Frank Lloyd Wright Zimmerman House.]]></string>
+    <string name="wTitle4">City Parks Exploration</string>
+    <string name="wAddr4"><![CDATA[Starts on Elm St & Lake Avenue]]></string>
+    <string name="wSite4">www.manchesternh.gov</string>
+    <string name="wDesc4"><![CDATA[Kalivas Park: Lake Avenue & Pine street. Veterans Memorial Parks: Elm Street & Central St. Brownstein Park Statue: Hanover St & Union St. Victory Park: Chestnut St. & Amherst st. Pulaski Park: W Bridge St. & Union Street. Wagner park: Maple St and Myrtle street. Derryfield Park:  Bridge St and Weston Street.]]></string>
+
+</resources>

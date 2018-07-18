@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item android:title="@string/cities">
+            <menu>
+        <item
+            android:checkable="true"
+            android:id="@+id/nav_manchester"
+            android:icon="@drawable/ic_location_city"
+            android:title="@string/manchester"/>
+
+        <item
+            android:id="@+id/nav_bedford"
+            android:icon="@drawable/ic_location_city"
+            android:title="Bedford" />
+
+        <item
+            android:id="@+id/nav_merrimack"
+            android:icon="@drawable/ic_location_city"
+            android:title="@string/merrimack"/>
+
+        <item
+            android:id="@+id/nav_hooksett"
+            android:icon="@drawable/ic_location_city"
+            android:title="@string/hooksett"/>
+            </menu>
+        </item>
+
+
+    <item android:title="@string/things_to_do">
+
+        <menu>
+            <item
+                android:id="@+id/nav_museums"
+                android:icon="@drawable/ic_action_picture"
+                android:title="@string/museums" />
+
+            <item
+                android:id="@+id/nav_performArts"
+                android:icon="@drawable/ic_local_play"
+                android:title="@string/performing_arts"/>
+            <item
+                android:id="@+id/nav_libraries"
+                android:icon="@drawable/ic_local_library"
+                android:title="@string/library" />
+            <item
+                android:id="@+id/nav_dining"
+                android:icon="@drawable/ic_restaurant"
+                android:title="@string/dining" />
+            <item
+                android:id="@+id/nav_shopping"
+                android:icon="@drawable/ic_store_mall_directory"
+                android:title="@string/shopping" />
+            <item
+                android:id="@+id/nav_walking"
+                android:icon="@drawable/ic_directions_walk"
+                android:title="@string/itinerary"/>
+
+            <item
+                android:id="@+id/nav_parks"
+                android:icon="@drawable/ic_nature"
+                android:title="@string/parks" />
+
+               <item android:id="@+id/nav_golf_country_clubs"
+                android:icon="@drawable/ic_golf_course"
+                android:title="@string/sport_country_clubs" />
+        </menu>
+    </item>
+
+    <item android:title="@string/transportation">
+        <menu>
+
+            <item
+                android:id="@+id/nav_airport"
+                android:icon="@drawable/ic_flight"
+                android:title="@string/airport" />
+        </menu>
+    </item>
+
+    <item android:title="@string/where_to_stay">
+        <menu>
+
+            <item
+                android:id="@+id/nav_hotels"
+                android:icon="@drawable/ic_hotel"
+                android:title="@string/hotels" />
+        </menu>
+    </item>
+
+
+
+</menu>

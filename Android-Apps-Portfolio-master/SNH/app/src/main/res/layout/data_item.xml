@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/colorPrimary"
+    app:cardCornerRadius="@dimen/data_item_card_radius">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/data_item_relative_layout_margin"
+        android:background="@color/colorSecondary">
+
+        <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:orientation="vertical" />
+
+        <ImageView
+            android:id="@+id/museumImageView"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/data_item_imageview_height"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:contentDescription="@string/section_img_desc"
+            android:paddingLeft="@dimen/data_item_imgview_padding_left"
+            android:paddingTop="@dimen/data_item_imgview_padding_top"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/museumTitleView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/museumImageView"
+            android:fontFamily="@font/rubik_medium"
+            android:padding="@dimen/data_item_txtviewtitle_padding"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/data_item_txtviewtitle_txtsize"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/museumSiteView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="@dimen/data_item_txtviewsite_margintop"
+            android:autoLink="web"
+            android:fontFamily="@font/roboto_medium"
+            android:paddingLeft="@dimen/data_item_imgview_padding_left"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textColorLink="@color/brown_txt"
+            android:textSize="@dimen/data_item_txtviewsite_txtsize"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/museumAddressView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="@dimen/data_item_txtviewaddress_margintop"
+            android:autoLink="map"
+            android:fontFamily="@font/roboto_medium"
+            android:paddingLeft="@dimen/data_item_imgview_padding_left"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textColorLink="@color/brown_txt"
+            android:textSize="@dimen/data_item_txtviewsite_txtsize"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/museumDescriptionView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="@dimen/data_item_txtview_desc_view_margintop"
+            android:fontFamily="@font/roboto_thin"
+            android:paddingLeft="@dimen/data_item_imgview_padding_left"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/data_item_txtview_txtsize_desc"
+            android:typeface="sans" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

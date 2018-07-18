@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorSecondary"
+        tools:context=".SnhAirportCategoryActivity"
+        tools:layout_editor_absoluteY="25dp">
+
+        <TextView
+            android:id="@+id/mhtTitleId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/airport_margin_end"
+            android:layout_marginStart="@dimen/airport_margin_start"
+            android:layout_marginTop="@dimen/airport_margin_top"
+            android:fontFamily="@font/roboto_bold"
+            android:padding="@dimen/airport_padding"
+            android:text="@string/mht_airport_title"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/airport_title_txtsize"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/mht_airportImgId"
+            android:layout_width="@dimen/airport_img_width"
+            android:layout_height="@dimen/airport_img_height"
+            android:layout_marginEnd="@dimen/airport_margin_end"
+            android:layout_marginStart="@dimen/airport_margin_start"
+            android:layout_marginTop="@dimen/airport_img_margin_top"
+            android:contentDescription="@string/plain_img"
+            android:scaleType="centerCrop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/mhtTitleId"
+            app:srcCompat="@drawable/airport3" />
+
+        <android.support.constraint.Guideline
+            android:id="@+id/guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="20dp" />
+
+        <TextView
+            android:id="@+id/mht_websiteId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/airport_margin_end"
+            android:layout_marginStart="@dimen/airport_margin_start"
+            android:layout_marginTop="@dimen/airport_margin_top"
+            android:autoLink="web"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/mht_website"
+            android:textAlignment="center"
+            android:textColorLink="@android:color/black"
+            android:textSize="@dimen/airport_site_txtsize"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/mht_airportImgId" />
+
+        <TextView
+            android:id="@+id/mht_addressId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/airport_margin_end"
+            android:layout_marginStart="@dimen/airport_margin_start"
+            android:layout_marginTop="@dimen/airport_margin_top"
+            android:autoLink="map"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/mht_address"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textColorLink="@android:color/black"
+            android:textSize="@dimen/airport_site_txtsize"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/mht_websiteId" />
+
+        <TextView
+            android:id="@+id/mht_infoTxtId"
+            android:layout_width="@dimen/airport_infotxt_width"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/airport_margin_end"
+            android:layout_marginStart="@dimen/airport_margin_start"
+            android:layout_marginTop="@dimen/airport_margin_top"
+            android:fontFamily="@font/roboto_thin"
+            android:padding="@dimen/airport_padding"
+            android:scrollbars="vertical"
+            android:text="@string/mht_airport"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/airport_info_txtsize"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/mht_addressId" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

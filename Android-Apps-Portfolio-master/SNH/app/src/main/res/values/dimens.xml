@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimension for Menu related items-->
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="drawer_width">250dp</dimen>
+
+    <!-- Dimension for city related items-->
+    <dimen name="city_images_width">200dp</dimen>
+    <dimen name="city_images_height">150dp</dimen>
+    <dimen name="city_list_height">890dp</dimen>
+    <dimen name="city_list_margin_bottom">81dp</dimen>
+
+    <!-- Dimension for data_item related items-->
+    <dimen name="data_item_card_radius">8dp</dimen>
+    <dimen name="data_item_relative_layout_margin">6dp</dimen>
+    <dimen name="data_item_imageview_height">160dp</dimen>
+    <dimen name="data_item_imgview_padding_left">8dp</dimen>
+    <dimen name="data_item_imgview_padding_top">2dp</dimen>
+    <dimen name="data_item_txtviewtitle_padding">8dp</dimen>
+    <dimen name="data_item_txtviewsite_margintop">249dp</dimen>
+    <dimen name="data_item_txtviewaddress_margintop">217dp</dimen>
+    <dimen name="data_item_txtview_desc_view_margintop">279dp</dimen>
+    <dimen name="data_item_txtviewsite_txtsize">16sp</dimen>
+    <dimen name="data_item_txtview_txtsize_desc">20sp</dimen>
+    <dimen name="data_item_txtviewtitle_txtsize">20sp</dimen>
+    <dimen name="data_item_txtviewdesc_txtsize">18sp</dimen>
+
+    <!-- Dimension for list_item (cities) related items-->
+    <dimen name="list_item_margin_left">8dp</dimen>
+    <dimen name="list_item_layoutmargin">8dp</dimen>
+    <dimen name="list_item_margin_top">8dp</dimen>
+    <dimen name="list_item_desc_margin_top">4dp</dimen>
+    <dimen name="list_item_img_margin_top">0dp</dimen>
+    <dimen name="list_item_imgview_layoutheight">150dp</dimen>
+    <dimen name="list_item_imgview_padding_right">8dp</dimen>
+
+    <!-- Dimension for nav_header related items-->
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_padding">16dp</dimen>
+    <dimen name="nav_header_padding_top">16dp</dimen>
+    <dimen name="nav_header_txtsize">18sp</dimen>
+
+    <!-- Dimension for Airport related items-->
+    <dimen name="airport_margin_end">8dp</dimen>
+    <dimen name="airport_margin_start">8dp</dimen>
+    <dimen name="airport_margin_top">8dp</dimen>
+    <dimen name="airport_img_margin_top">4dp</dimen>
+    <dimen name="airport_padding">8dp</dimen>
+    <dimen name="airport_img_width">0dp</dimen>
+    <dimen name="airport_img_height">297dp</dimen>
+    <dimen name="airport_infotxt_width">0dp</dimen>
+    <dimen name="airport_title_txtsize">24sp</dimen>
+    <dimen name="airport_site_txtsize">20sp</dimen>
+    <dimen name="airport_info_txtsize">20sp</dimen>
+</resources>
