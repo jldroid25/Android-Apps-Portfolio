@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensor App</string>
+
+    <string name="available_room">Lights are OFF, go ahead conference Room is available.</string>
+
+    <string name="unavailable_room">Lights are ON, conference Room is not available at this time.</string>
+
+    <string name="si_lux_units"> SI Lux Units</string>
+    <string name="app_ui_title"> Light Sensor App</string>
+
+</resources>
